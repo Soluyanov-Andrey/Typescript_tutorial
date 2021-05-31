@@ -1,2 +1,2 @@
 // import './1-basic-type/1';
-import './1-basic-type/2';
+import './1-basic-type/7';
