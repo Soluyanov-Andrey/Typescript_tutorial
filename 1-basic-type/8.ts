@@ -3,6 +3,7 @@
  */
 
 let b: any = 10;
-b ='string';
-b = false;
+b ='Pilot';
+b = true;
+b = 5;
 console.log(b);
