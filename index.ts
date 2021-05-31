@@ -1,0 +1,1 @@
+import './1-basic-type/1';
