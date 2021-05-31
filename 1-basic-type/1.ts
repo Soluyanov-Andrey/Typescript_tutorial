@@ -1,3 +1,6 @@
-let isDone: boolean = false;
+/**
+ * Пример тип boolean;
+ */
+let isBoolean: boolean = false;
 
-console.log(isDone);
+console.log(isBoolean);
