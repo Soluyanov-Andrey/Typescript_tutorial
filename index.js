@@ -2,4 +2,4 @@
 exports.__esModule = true;
 // import './1-basic-type/1';
 // import './1-basic-type/11';
-require("./2/2");
+require("./2/3");
