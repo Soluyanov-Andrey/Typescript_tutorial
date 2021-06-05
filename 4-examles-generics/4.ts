@@ -5,6 +5,7 @@
 {
     const testFunction = function<G>(arg:G[]): G[]{
         const v = arg[1];
+        // Оператор instanceof проверяет, принадлежит ли объект к определённому классу.
         if(v instanceof Number){
             //toFixed округляет
             console.log(v.toFixed())
